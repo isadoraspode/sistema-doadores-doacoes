@@ -2,7 +2,7 @@
 
 A robust Java-based console application designed to efficiently manage, validate, and process donor records and their respective donations. The system automates data ingestion from CSV files, processes distinct donation types, and handles data validation to generate comprehensive final reports.
 
-## 🚀 Key Features
+## 🛠️ Key Features
 
 * **Data Ingestion:** Reads and parses unstructured or structured data from CSV files and outputs information into `.txt` logs.
 * **Polymorphism & OOP:** Manages different categories of donations, specifically processing rules for **perishable** and **durable** items.
@@ -22,9 +22,6 @@ A robust Java-based console application designed to efficiently manage, validate
 * Input datasets and generated reports are managed via text-based integration files.
 
 ## ⚙️ How to Run the Project
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/isadoraspode/sistema-doadores-doacoes.git](https://github.com/isadoraspode/sistema-doadores-doacoes.git)
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/isadoraspode/sistema-doadores-doacoes.git](https://github.com/isadoraspode/sistema-doadores-doacoes.git)
